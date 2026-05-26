@@ -1,7 +1,9 @@
-# Maryam
-## Yo Wassup
-### This is Just a test
-### We Learn, We Improve, We Win
+# **_Maryam_**
+## <sub>Y</sub><sup>o</sup> Wassup
+### This is Just ~a test~
+### <ins>We Learn, We Improve, We Win</ins>
+>GitHub suggested this
+>do not blame me
 
 <!--
 **Maryalans2/Maryalans2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
